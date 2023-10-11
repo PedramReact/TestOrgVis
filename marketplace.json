@@ -8,11 +8,11 @@
 
     "constants": {
         "VIS_LABEL": {
-            "label": "Visualization Label",
+            "label": "Visualization_pedram ",
             "description": "This label will appear in the visualization selector in the Looker Explore UI."
         },
         "VIS_ID": {
-            "label": "Visualization ID",
+            "label": "Visualization_pedram_id",
             "description": "This ID must be unique across all custom visualizations on your instance.",
             "value_constraint": "visualization"
         }
